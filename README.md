@@ -65,7 +65,8 @@ INITIAL CLASS IDEAS:
 - Appointment: Serves as the transactional link between the clinic and the client. It is responsible for associating a specific Vet, PetOwner and
   Pet to an allocated date and time block, and keeping track of its progression state (e.g. Pending, Confirmed, Completed).
 
-- ClassName3: <responsibility>
+- Vet: Inherits from the User class and is used to represent the clinical staff. It is responsible for handling the doctor's particular schedule, 
+  keeping track of free hours, and keeping a record of the doctor's upcoming patient appointments.
 
 USER STORIES (Recommended):
 - As a <user type>, I want to <action> so that <goal>.
