@@ -2,7 +2,7 @@ PROJECT TITLE:
 <Your project name>
 
 TEAM MEMBERS:
-<Name 1> - <GitHub username>
+Zachary Acosta - zachacosta3
 Denise Verzosa - deniseverzosa
 Catherine Xu  - XuCatherine1023
 
